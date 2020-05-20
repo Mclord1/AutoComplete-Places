@@ -22,7 +22,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     EditText addressField;
     TextView addressText;
-    public static final String API_KEY = "AIzaSyBYrRCD5wUXQcrzI4TD-EfPjbwDTq-p6ME";
+    
     public static final int AUTOCOMPLETE_REQUEST_CODE = 100;
 
     @Override
